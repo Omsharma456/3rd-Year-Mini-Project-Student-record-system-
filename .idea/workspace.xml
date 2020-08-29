@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6925bd55-d36f-41ca-aa63-aa6a99ec3d1e" name="Default Changelist" comment="" />
+    <list default="true" id="6925bd55-d36f-41ca-aa63-aa6a99ec3d1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/homepage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login/loginpage.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gj4dq2MNV7CPMq6PG49Fys3CaZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +43,7 @@
       <workItem from="1598614784515" duration="925000" />
       <workItem from="1598668118082" duration="57000" />
       <workItem from="1598701185595" duration="1048000" />
+      <workItem from="1598703457441" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="admin directory">
       <created>1598701663632</created>
@@ -59,7 +66,28 @@
       <option name="project" value="LOCAL" />
       <updated>1598702206140</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="index php">
+      <created>1598703530975</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598703530975</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hello">
+      <created>1598703606108</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598703606108</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add student">
+      <created>1598703700936</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598703700936</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,7 +96,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="admin directory" />
     <MESSAGE value="css file for style" />
-    <option name="LAST_COMMIT_MESSAGE" value="css file for style" />
+    <MESSAGE value="index php" />
+    <MESSAGE value="hello" />
+    <MESSAGE value="add student" />
+    <option name="LAST_COMMIT_MESSAGE" value="add student" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
