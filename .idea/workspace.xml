@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="sihahieh">
-      <change afterPath="$PROJECT_DIR$/schoolmanagement/schoolmanagement/pages/add-course.php" afterDir="false" />
+    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/javascript/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +10,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution />
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,13 +30,6 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/schoolmanagement/schoolmanagement" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\omsha\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement" />
-      <recent name="C:\Users\omsha\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\bootstrap" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -67,7 +44,18 @@
       </method>
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -83,10 +71,6 @@
       <workItem from="1598701185595" duration="1048000" />
       <workItem from="1598706121676" duration="205000" />
       <workItem from="1598706328510" duration="278000" />
-      <workItem from="1606110376485" duration="20000" />
-      <workItem from="1606110417212" duration="1637000" />
-      <workItem from="1606112934454" duration="362000" />
-      <workItem from="1606113346696" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="admin directory">
       <created>1598701663632</created>
@@ -116,102 +100,17 @@
       <option name="project" value="LOCAL" />
       <updated>1598706517128</updated>
     </task>
-    <task id="LOCAL-00005" summary="school management directory">
-      <created>1606112473011</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1606112473011</updated>
-    </task>
-    <task id="LOCAL-00006" summary="bower components directory">
-      <created>1606112525359</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1606112525360</updated>
-    </task>
-    <task id="LOCAL-00007" summary="my file">
-      <created>1606112965621</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1606112965621</updated>
-    </task>
-    <task id="LOCAL-00008" summary="my file">
-      <created>1606113107060</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1606113107060</updated>
-    </task>
-    <task id="LOCAL-00009" summary="my file">
-      <created>1606113226355</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1606113226355</updated>
-    </task>
-    <task id="LOCAL-00010" summary="school management directory">
-      <created>1606113422503</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1606113422503</updated>
-    </task>
-    <task id="LOCAL-00011" summary="index on php">
-      <created>1606113604679</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1606113604679</updated>
-    </task>
-    <task id="LOCAL-00012" summary="bower components">
-      <created>1606113768269</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1606113768269</updated>
-    </task>
-    <task id="LOCAL-00013" summary="sihahieh">
-      <created>1606113963173</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1606113963173</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ps1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="admin directory" />
     <MESSAGE value="css file for style" />
     <MESSAGE value="add javascript file" />
-    <MESSAGE value="bower components directory" />
-    <MESSAGE value="my file" />
-    <MESSAGE value="school management directory" />
-    <MESSAGE value="school management directroy" />
-    <MESSAGE value="index on php" />
-    <MESSAGE value="bower components" />
-    <MESSAGE value="sihahieh" />
-    <option name="LAST_COMMIT_MESSAGE" value="sihahieh" />
+    <option name="LAST_COMMIT_MESSAGE" value="add javascript file" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -222,14 +121,9 @@
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1598702204324" />
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598706516214" />
-    <state x="129" y="69" key="DiffContextDialog" timestamp="1606114014786">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1598702214170">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="129" y="69" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1606114014786" />
-    <state x="275" y="115" key="Vcs.Push.Dialog.v2" timestamp="1606114016617">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="275" y="115" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606114016616" />
     <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1598702214170" />
     <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1598706123689">
       <screen x="0" y="0" width="1536" height="824" />
@@ -243,9 +137,5 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="277" y="173" key="git4idea.merge.GitPullDialog/0.0.1366.768@0.0.1366.768" timestamp="1598702056951" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1606112184396">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1606112184396" />
   </component>
 </project>
