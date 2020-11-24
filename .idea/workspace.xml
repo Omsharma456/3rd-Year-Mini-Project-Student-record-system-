@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="add images">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +50,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables\media\js" />
       <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables\media\images" />
       <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables\media\css" />
       <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components" />
       <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\config" />
-      <recent name="C:\Users\omsha\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -91,7 +89,7 @@
       <workItem from="1606110417212" duration="1637000" />
       <workItem from="1606112934454" duration="362000" />
       <workItem from="1606113346696" duration="674000" />
-      <workItem from="1606116816622" duration="2932000" />
+      <workItem from="1606116816622" duration="3197000" />
     </task>
     <task id="LOCAL-00001" summary="admin directory">
       <created>1598701663632</created>
@@ -275,7 +273,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606216210961</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="javascript directory">
+      <created>1606216341117</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606216341117</updated>
+    </task>
+    <task id="LOCAL-00028" summary="bootstrap data table">
+      <created>1606216457454</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1606216457454</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +310,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="admin directory" />
     <MESSAGE value="css file for style" />
     <MESSAGE value="add javascript file" />
     <MESSAGE value="bower components directory" />
@@ -322,17 +333,19 @@
     <MESSAGE value="data tables directory" />
     <MESSAGE value="add images" />
     <MESSAGE value="add icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="add icon" />
+    <MESSAGE value="javascript directory" />
+    <MESSAGE value="bootstrap data table" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap data table" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2" timestamp="1606216339594">
+    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2" timestamp="1606216456338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1598702204324" />
-    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606216339594" />
+    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606216456338" />
     <state x="129" y="69" key="DiffContextDialog" timestamp="1606114014786">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
