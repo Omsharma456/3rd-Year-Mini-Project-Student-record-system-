@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="mocha  logo" />
+    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="Morris file html plugin">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/schoolmanagement/schoolmanagement/bower_components/mocha" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/schoolmanagement/schoolmanagement/bower_components" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\omsha\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components" />
+      <recent name="C:\Users\omsha\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\mocha" />
+      <recent name="C:\Users\omsha\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\mocha\media" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
@@ -126,7 +135,56 @@
       <option name="project" value="LOCAL" />
       <updated>1606221468040</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="bower json">
+      <created>1606221497407</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606221497407</updated>
+    </task>
+    <task id="LOCAL-00009" summary="history">
+      <created>1606221545360</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606221545360</updated>
+    </task>
+    <task id="LOCAL-00010" summary="licence">
+      <created>1606221574283</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606221574283</updated>
+    </task>
+    <task id="LOCAL-00011" summary="mocha">
+      <created>1606221591898</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606221591898</updated>
+    </task>
+    <task id="LOCAL-00012" summary="mocha&#10;javascript">
+      <created>1606221640158</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606221640158</updated>
+    </task>
+    <task id="LOCAL-00013" summary="readme file">
+      <created>1606221655303</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606221655303</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Morris file html plugin">
+      <created>1606221728474</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606221728474</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +209,13 @@
     <MESSAGE value="mocha directory" />
     <MESSAGE value="mocha  logo" />
     <MESSAGE value="bower json" />
-    <option name="LAST_COMMIT_MESSAGE" value="bower json" />
+    <MESSAGE value="history" />
+    <MESSAGE value="licence" />
+    <MESSAGE value="mocha" />
+    <MESSAGE value="mocha&#10;javascript" />
+    <MESSAGE value="readme file" />
+    <MESSAGE value="Morris file html plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Morris file html plugin" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
