@@ -46,15 +46,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/schoolmanagement/schoolmanagement/bower_components/datatables/media/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/schoolmanagement/schoolmanagement/bower_components/datatables/media" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables\media" />
       <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables\media\js" />
       <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables\media\images" />
       <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables\media\css" />
       <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components" />
-      <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\config" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -89,7 +89,7 @@
       <workItem from="1606110417212" duration="1637000" />
       <workItem from="1606112934454" duration="362000" />
       <workItem from="1606113346696" duration="674000" />
-      <workItem from="1606116816622" duration="3197000" />
+      <workItem from="1606116816622" duration="3484000" />
     </task>
     <task id="LOCAL-00001" summary="admin directory">
       <created>1598701663632</created>
@@ -287,7 +287,42 @@
       <option name="project" value="LOCAL" />
       <updated>1606216457454</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="data table foundation">
+      <created>1606216547731</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1606216547731</updated>
+    </task>
+    <task id="LOCAL-00030" summary="data table jquery">
+      <created>1606216601465</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1606216601465</updated>
+    </task>
+    <task id="LOCAL-00031" summary="data table jquery">
+      <created>1606216675657</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1606216675657</updated>
+    </task>
+    <task id="LOCAL-00032" summary="jquery">
+      <created>1606216706513</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1606216706513</updated>
+    </task>
+    <task id="LOCAL-00033" summary="jquery">
+      <created>1606216726102</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1606216726102</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,9 +345,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="css file for style" />
-    <MESSAGE value="add javascript file" />
-    <MESSAGE value="bower components directory" />
     <MESSAGE value="my file" />
     <MESSAGE value="school management directory" />
     <MESSAGE value="school management directroy" />
@@ -335,17 +367,20 @@
     <MESSAGE value="add icon" />
     <MESSAGE value="javascript directory" />
     <MESSAGE value="bootstrap data table" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap data table" />
+    <MESSAGE value="data table foundation" />
+    <MESSAGE value="data table jquery" />
+    <MESSAGE value="jquery" />
+    <option name="LAST_COMMIT_MESSAGE" value="jquery" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2" timestamp="1606216705154">
+    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2" timestamp="1606216724629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1598702204324" />
-    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606216705154" />
+    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606216724629" />
     <state x="129" y="69" key="DiffContextDialog" timestamp="1606114014786">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
