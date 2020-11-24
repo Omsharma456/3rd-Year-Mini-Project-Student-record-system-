@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -303,7 +301,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606219868831</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add ajax, attributes, core, css, data,effects,event,exports,manipulation,queue,sizzle javascript files">
+      <created>1606220155697</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1606220155697</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add ajax, attributes, core, css, data,effects,event,exports,manipulation,queue,sizzle javascript files">
+      <created>1606220178456</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1606220178456</updated>
+    </task>
+    <task id="LOCAL-00033" summary="json">
+      <created>1606220235817</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1606220235817</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,8 +345,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bower components directory" />
-    <MESSAGE value="my file" />
     <MESSAGE value="school management directory" />
     <MESSAGE value="school management directroy" />
     <MESSAGE value="index on php" />
@@ -351,7 +368,9 @@
     <MESSAGE value="dist directory" />
     <MESSAGE value="javascript file" />
     <MESSAGE value="map file" />
-    <option name="LAST_COMMIT_MESSAGE" value="map file" />
+    <MESSAGE value="add ajax, attributes, core, css, data,effects,event,exports,manipulation,queue,sizzle javascript files" />
+    <MESSAGE value="json" />
+    <option name="LAST_COMMIT_MESSAGE" value="json" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -361,11 +380,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="128" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606219777711" />
-    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2" timestamp="1606220176755">
+    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2" timestamp="1606220234916">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1598702204324" />
-    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606220176755" />
+    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606220234916" />
     <state x="129" y="69" key="DiffContextDialog" timestamp="1606114014786">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
