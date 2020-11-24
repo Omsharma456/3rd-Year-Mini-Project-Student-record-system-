@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="css directory" />
+    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="js directory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,15 +44,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/schoolmanagement/schoolmanagement/bower_components/datatables-responsive/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/schoolmanagement/schoolmanagement/bower_components/datatables-responsive" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables-responsive" />
+      <recent name="C:\Users\HP\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables-responsive\js " />
       <recent name="C:\Users\HP\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables-responsive\css" />
       <recent name="C:\Users\HP\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components" />
       <recent name="C:\Users\HP\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\dist\css" />
-      <recent name="C:\Users\HP\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -184,7 +184,35 @@
       <option name="project" value="LOCAL" />
       <updated>1606217564824</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="css directory data tables">
+      <created>1606217705166</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606217705166</updated>
+    </task>
+    <task id="LOCAL-00016" summary="docs directory and no of xml files">
+      <created>1606217804464</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606217804464</updated>
+    </task>
+    <task id="LOCAL-00017" summary="example directory">
+      <created>1606217886357</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606217886357</updated>
+    </task>
+    <task id="LOCAL-00018" summary="js directory">
+      <created>1606217972392</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1606217972392</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +243,11 @@
     <MESSAGE value="datatables plugins directory" />
     <MESSAGE value="datatables responsive directory" />
     <MESSAGE value="css directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="css directory" />
+    <MESSAGE value="css directory data tables" />
+    <MESSAGE value="docs directory and no of xml files" />
+    <MESSAGE value="example directory" />
+    <MESSAGE value="js directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="js directory" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
