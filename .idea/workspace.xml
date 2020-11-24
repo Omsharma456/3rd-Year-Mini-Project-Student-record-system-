@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="add images">
+    <list default="true" id="74b3c69d-c4f1-48eb-9394-e93c38d4be46" name="Default Changelist" comment="datatables plugins directory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,9 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,30 +46,30 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/schoolmanagement/schoolmanagement/bower_components/datatables/media/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/schoolmanagement/schoolmanagement/bower_components" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables\media\images" />
-      <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components\datatables\media\css" />
-      <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components" />
-      <recent name="C:\Users\LENOVO\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\config" />
-      <recent name="C:\Users\omsha\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement" />
+      <recent name="C:\Users\HP\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\bower_components" />
+      <recent name="C:\Users\HP\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\dist\css" />
+      <recent name="C:\Users\HP\IdeaProjects\3rd-Year-Mini-Project-Student-record-system-\schoolmanagement\schoolmanagement\js" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -87,11 +85,6 @@
       <workItem from="1598701185595" duration="1048000" />
       <workItem from="1598706121676" duration="205000" />
       <workItem from="1598706328510" duration="278000" />
-      <workItem from="1606110376485" duration="20000" />
-      <workItem from="1606110417212" duration="1637000" />
-      <workItem from="1606112934454" duration="362000" />
-      <workItem from="1606113346696" duration="674000" />
-      <workItem from="1606116816622" duration="2932000" />
     </task>
     <task id="LOCAL-00001" summary="admin directory">
       <created>1598701663632</created>
@@ -121,228 +114,107 @@
       <option name="project" value="LOCAL" />
       <updated>1598706517128</updated>
     </task>
-    <task id="LOCAL-00005" summary="school management directory">
-      <created>1606112473011</created>
+    <task id="LOCAL-00005" summary="float data">
+      <created>1606115074077</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1606112473011</updated>
+      <updated>1606115074077</updated>
     </task>
-    <task id="LOCAL-00006" summary="bower components directory">
-      <created>1606112525359</created>
+    <task id="LOCAL-00006" summary="morris data">
+      <created>1606115104718</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1606112525360</updated>
+      <updated>1606115104718</updated>
     </task>
-    <task id="LOCAL-00007" summary="my file">
-      <created>1606112965621</created>
+    <task id="LOCAL-00007" summary="morris data">
+      <created>1606115127579</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1606112965621</updated>
+      <updated>1606115127579</updated>
     </task>
-    <task id="LOCAL-00008" summary="my file">
-      <created>1606113107060</created>
+    <task id="LOCAL-00008" summary="dist directory">
+      <created>1606115245231</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1606113107060</updated>
+      <updated>1606115245231</updated>
     </task>
-    <task id="LOCAL-00009" summary="my file">
-      <created>1606113226355</created>
+    <task id="LOCAL-00009" summary="jquery validation css file">
+      <created>1606115399912</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1606113226355</updated>
+      <updated>1606115399912</updated>
     </task>
-    <task id="LOCAL-00010" summary="school management directory">
-      <created>1606113422503</created>
+    <task id="LOCAL-00010" summary="for admin use only">
+      <created>1606115446525</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1606113422503</updated>
+      <updated>1606115446525</updated>
     </task>
-    <task id="LOCAL-00011" summary="index on php">
-      <created>1606113604679</created>
+    <task id="LOCAL-00011" summary="student timeline">
+      <created>1606115499759</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1606113604679</updated>
+      <updated>1606115499759</updated>
     </task>
-    <task id="LOCAL-00012" summary="bower components">
-      <created>1606113768269</created>
+    <task id="LOCAL-00012" summary="datatables plugins directory">
+      <created>1606217215788</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1606113768269</updated>
+      <updated>1606217215788</updated>
     </task>
-    <task id="LOCAL-00013" summary="sihahieh">
-      <created>1606113963173</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1606113963173</updated>
-    </task>
-    <task id="LOCAL-00014" summary="config directory">
-      <created>1606116993677</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1606116993677</updated>
-    </task>
-    <task id="LOCAL-00015" summary="database connection file php">
-      <created>1606117076324</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1606117076324</updated>
-    </task>
-    <task id="LOCAL-00016" summary="database function file php">
-      <created>1606117119211</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1606117119211</updated>
-    </task>
-    <task id="LOCAL-00017" summary="bower components">
-      <created>1606117336287</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1606117336287</updated>
-    </task>
-    <task id="LOCAL-00018" summary="bootstrap">
-      <created>1606117423366</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1606117423366</updated>
-    </task>
-    <task id="LOCAL-00019" summary="bower components">
-      <created>1606117862772</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1606117862772</updated>
-    </task>
-    <task id="LOCAL-00020" summary="bootstrap social">
-      <created>1606118130093</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1606118130093</updated>
-    </task>
-    <task id="LOCAL-00021" summary="database table">
-      <created>1606215091392</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1606215091393</updated>
-    </task>
-    <task id="LOCAL-00022" summary="data tables foundation">
-      <created>1606215207904</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1606215207904</updated>
-    </task>
-    <task id="LOCAL-00023" summary="header, footer and body style data table">
-      <created>1606215386285</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1606215386285</updated>
-    </task>
-    <task id="LOCAL-00024" summary="data tables directory">
-      <created>1606215675572</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1606215675573</updated>
-    </task>
-    <task id="LOCAL-00025" summary="add images">
-      <created>1606216024821</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1606216024821</updated>
-    </task>
-    <task id="LOCAL-00026" summary="add icon">
-      <created>1606216210961</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1606216210961</updated>
-    </task>
-    <option name="localTasksCounter" value="27" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ps1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="admin directory" />
     <MESSAGE value="css file for style" />
     <MESSAGE value="add javascript file" />
-    <MESSAGE value="bower components directory" />
-    <MESSAGE value="my file" />
-    <MESSAGE value="school management directory" />
-    <MESSAGE value="school management directroy" />
-    <MESSAGE value="index on php" />
-    <MESSAGE value="sihahieh" />
-    <MESSAGE value="config directory" />
-    <MESSAGE value="database connection file php" />
-    <MESSAGE value="database function file php" />
-    <MESSAGE value="bootstrap" />
-    <MESSAGE value="bower components" />
-    <MESSAGE value="bootstrap social" />
-    <MESSAGE value="database table" />
-    <MESSAGE value="datatables foundation" />
-    <MESSAGE value="data tables foundation" />
-    <MESSAGE value="header, footer and body style" />
-    <MESSAGE value="header, footer and body style data table" />
-    <MESSAGE value="theme" />
-    <MESSAGE value="data tables directory" />
-    <MESSAGE value="add images" />
-    <MESSAGE value="add icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="add icon" />
+    <MESSAGE value="float data" />
+    <MESSAGE value="morris data" />
+    <MESSAGE value="dist directory" />
+    <MESSAGE value="jquery validation css file" />
+    <MESSAGE value="for admin use only" />
+    <MESSAGE value="student timeline" />
+    <MESSAGE value="datatables plugins directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="datatables plugins directory" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2" timestamp="1606216255356">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1598706516214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1598702204324" />
-    <state x="0" y="0" width="823" height="803" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606216255356" />
-    <state x="129" y="69" key="DiffContextDialog" timestamp="1606114014786">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="129" y="69" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1606114014786" />
-    <state x="309" y="128" key="Vcs.Push.Dialog.v2" timestamp="1606216039905">
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598706516214" />
+    <state x="309" y="129" key="Vcs.Push.Dialog.v2" timestamp="1606217249037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="275" y="115" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606114016616" />
     <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1598702214170" />
-    <state x="309" y="128" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606216039905" />
+    <state x="309" y="129" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606217249037" />
     <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1598706123689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -355,9 +227,5 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="277" y="173" key="git4idea.merge.GitPullDialog/0.0.1366.768@0.0.1366.768" timestamp="1598702056951" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1606112184396">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1606112184396" />
   </component>
 </project>
