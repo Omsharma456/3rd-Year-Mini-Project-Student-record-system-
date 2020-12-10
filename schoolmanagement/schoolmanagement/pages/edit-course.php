@@ -14,8 +14,7 @@ $res = $rs->fetch_object();
 
 if (isset($_POST['submit'])) {
 
-    // echo  $id=$_GET['cid'];exit;
-    //echo $_POST['course-short'].$_POST['course-full'].$_POST['udate'].$id;exit;
+
     $obj->edit_course($_POST['course-short'], $_POST['course-full'], $_POST['udate'], $id);
 
 }
@@ -33,22 +32,11 @@ if (isset($_POST['submit'])) {
     <meta name="author" content="">
 
     <title></title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
-    <!-- Bootstrap Core CSS -->
-    <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css"
-          rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-    <!-- MetisMenu CSS -->
-    <link href="../bower_components/metisMenu/dist/metisMenu.min.css"
-          rel="stylesheet">
-
-    <!-- Custom CSS -->
-    <link href="../dist/css/sb-admin-2.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="../bower_components/font-awesome/css/font-awesome.min.css"
-          rel="stylesheet" type="text/css">
-
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 </head>
 
@@ -149,20 +137,6 @@ if (isset($_POST['submit'])) {
 
 
     </div>
-
-    <script src="../bower_components/jquery/dist/jquery.min.js"
-            type="text/javascript"></script>
-
-
-    <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"
-            type="text/javascript"></script>
-
-    <!-- Metis Menu Plugin JavaScript -->
-    <script src="../bower_components/metisMenu/dist/metisMenu.min.js"
-            type="text/javascript"></script>
-
-    <!-- Custom Theme JavaScript -->
-    <script src="../dist/js/sb-admin-2.js" type="text/javascript"></script>
 
     <script>
         function courseAvailability() {

@@ -34,13 +34,11 @@ if (isset($_POST['submit'])) {
     <meta name="description" content="">
     <meta name="author" content="">
     <title>register</title>
-    <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css"
-          rel="stylesheet">
-    <link href="../bower_components/metisMenu/dist/metisMenu.min.css"
-          rel="stylesheet">
-    <link href="../dist/css/sb-admin-2.css" rel="stylesheet">
-    <link href="../bower_components/font-awesome/css/font-awesome.min.css"
-          rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 
 <body>
@@ -573,21 +571,6 @@ if (isset($_POST['submit'])) {
                             </div>
 </form>
 
-<!-- jQuery -->
-<script src="../bower_components/jquery/dist/jquery.min.js"
-        type="text/javascript"></script>
-
-<!-- Bootstrap Core JavaScript -->
-<script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"
-        type="text/javascript"></script>
-
-<!-- Metis Menu Plugin JavaScript -->
-<script src="../bower_components/metisMenu/dist/metisMenu.min.js"
-        type="text/javascript"></script>
-
-<!-- Custom Theme JavaScript -->
-<script src="../dist/js/sb-admin-2.js" type="text/javascript"></script>
-
 <script>
     function showState(val) {
 
@@ -619,21 +602,17 @@ if (isset($_POST['submit'])) {
 
     function showSub(val) {
 
-        //alert(val);
         $.ajax({
             type: "POST",
             url: "subject.php",
             data: 'cid=' + val,
             success: function (data) {
-                // alert(data);
                 $("#c-full").val(data);
             }
         });
 
     }
 </script>
-
-
 </body>
 
 </html>

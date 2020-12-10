@@ -2,6 +2,7 @@
 include('dbcontroller.php');
 if (!empty($_POST["id"])) {
     $id = intval($_POST['id']);
+    $DB_con = mysqli_connect("localhost", "root", "", "studentmanagement");
     $stmt = $DB_con->prepare("SELECT * FROM states WHERE country_id = :id");
     $stmt->execute(array(':id' => $id));
     ?>
